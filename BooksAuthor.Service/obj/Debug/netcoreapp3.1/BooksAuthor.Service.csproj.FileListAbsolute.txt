@@ -1,0 +1,14 @@
+F:\Project\BooksAuthor\BooksAuthor.Service\bin\Debug\netcoreapp3.1\BooksAuthor.Service.deps.json
+F:\Project\BooksAuthor\BooksAuthor.Service\bin\Debug\netcoreapp3.1\BooksAuthor.Service.dll
+F:\Project\BooksAuthor\BooksAuthor.Service\bin\Debug\netcoreapp3.1\BooksAuthor.Service.pdb
+F:\Project\BooksAuthor\BooksAuthor.Service\obj\Debug\netcoreapp3.1\BooksAuthor.Service.csprojAssemblyReference.cache
+F:\Project\BooksAuthor\BooksAuthor.Service\obj\Debug\netcoreapp3.1\BooksAuthor.Service.AssemblyInfoInputs.cache
+F:\Project\BooksAuthor\BooksAuthor.Service\obj\Debug\netcoreapp3.1\BooksAuthor.Service.AssemblyInfo.cs
+F:\Project\BooksAuthor\BooksAuthor.Service\obj\Debug\netcoreapp3.1\BooksAuthor.Service.csproj.CoreCompileInputs.cache
+F:\Project\BooksAuthor\BooksAuthor.Service\obj\Debug\netcoreapp3.1\BooksAuthor.Service.dll
+F:\Project\BooksAuthor\BooksAuthor.Service\obj\Debug\netcoreapp3.1\BooksAuthor.Service.pdb
+F:\Project\BooksAuthor\BooksAuthor.Service\bin\Debug\netcoreapp3.1\BooksAuthor.Entity.dll
+F:\Project\BooksAuthor\BooksAuthor.Service\bin\Debug\netcoreapp3.1\BooksAuthor.ViewModel.dll
+F:\Project\BooksAuthor\BooksAuthor.Service\bin\Debug\netcoreapp3.1\BooksAuthor.Entity.pdb
+F:\Project\BooksAuthor\BooksAuthor.Service\bin\Debug\netcoreapp3.1\BooksAuthor.ViewModel.pdb
+F:\Project\BooksAuthor\BooksAuthor.Service\obj\Debug\netcoreapp3.1\BooksAuthor.Service.csproj.CopyComplete

@@ -1,0 +1,9 @@
+F:\Project\BooksAuthor\BooksAuthor.ViewModel\bin\Debug\netcoreapp3.1\BooksAuthor.ViewModel.deps.json
+F:\Project\BooksAuthor\BooksAuthor.ViewModel\bin\Debug\netcoreapp3.1\BooksAuthor.ViewModel.dll
+F:\Project\BooksAuthor\BooksAuthor.ViewModel\bin\Debug\netcoreapp3.1\BooksAuthor.ViewModel.pdb
+F:\Project\BooksAuthor\BooksAuthor.ViewModel\obj\Debug\netcoreapp3.1\BooksAuthor.ViewModel.csprojAssemblyReference.cache
+F:\Project\BooksAuthor\BooksAuthor.ViewModel\obj\Debug\netcoreapp3.1\BooksAuthor.ViewModel.AssemblyInfoInputs.cache
+F:\Project\BooksAuthor\BooksAuthor.ViewModel\obj\Debug\netcoreapp3.1\BooksAuthor.ViewModel.AssemblyInfo.cs
+F:\Project\BooksAuthor\BooksAuthor.ViewModel\obj\Debug\netcoreapp3.1\BooksAuthor.ViewModel.csproj.CoreCompileInputs.cache
+F:\Project\BooksAuthor\BooksAuthor.ViewModel\obj\Debug\netcoreapp3.1\BooksAuthor.ViewModel.dll
+F:\Project\BooksAuthor\BooksAuthor.ViewModel\obj\Debug\netcoreapp3.1\BooksAuthor.ViewModel.pdb

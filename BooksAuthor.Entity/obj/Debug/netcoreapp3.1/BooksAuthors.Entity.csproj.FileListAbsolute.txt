@@ -1,0 +1,12 @@
+F:\Project\BooksAuthor\BooksAuthor.Entity\bin\Debug\netcoreapp3.1\BooksAuthors.Entity.deps.json
+F:\Project\BooksAuthor\BooksAuthor.Entity\bin\Debug\netcoreapp3.1\BooksAuthors.Entity.runtimeconfig.json
+F:\Project\BooksAuthor\BooksAuthor.Entity\bin\Debug\netcoreapp3.1\BooksAuthors.Entity.runtimeconfig.dev.json
+F:\Project\BooksAuthor\BooksAuthor.Entity\bin\Debug\netcoreapp3.1\BooksAuthors.Entity.dll
+F:\Project\BooksAuthor\BooksAuthor.Entity\bin\Debug\netcoreapp3.1\BooksAuthors.Entity.pdb
+F:\Project\BooksAuthor\BooksAuthor.Entity\obj\Debug\netcoreapp3.1\BooksAuthors.Entity.csprojAssemblyReference.cache
+F:\Project\BooksAuthor\BooksAuthor.Entity\obj\Debug\netcoreapp3.1\BooksAuthors.Entity.AssemblyInfoInputs.cache
+F:\Project\BooksAuthor\BooksAuthor.Entity\obj\Debug\netcoreapp3.1\BooksAuthors.Entity.AssemblyInfo.cs
+F:\Project\BooksAuthor\BooksAuthor.Entity\obj\Debug\netcoreapp3.1\BooksAuthors.Entity.csproj.CoreCompileInputs.cache
+F:\Project\BooksAuthor\BooksAuthor.Entity\obj\Debug\netcoreapp3.1\BooksAuthors.Entity.dll
+F:\Project\BooksAuthor\BooksAuthor.Entity\obj\Debug\netcoreapp3.1\BooksAuthors.Entity.pdb
+F:\Project\BooksAuthor\BooksAuthor.Entity\obj\Debug\netcoreapp3.1\BooksAuthors.Entity.genruntimeconfig.cache

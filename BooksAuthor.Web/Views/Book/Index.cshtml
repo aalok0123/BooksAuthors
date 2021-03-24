@@ -1,0 +1,43 @@
+﻿@model IEnumerable<BooksAuthors.ViewModel.BookViewModel>
+
+@{
+    ViewData["Title"] = "View";
+}
+
+<h1>View</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Book_Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Book_Title)
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Book_Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Book_Title)
+                </td>
+
+                <td>
+                    <a href="/Book/Edit/@item.Book_Id">Edit</a>
+                    <a href="/Book/Delete/@item.Book_Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
